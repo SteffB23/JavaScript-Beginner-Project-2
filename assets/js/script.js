@@ -52,6 +52,7 @@ var data = [
 
 ]
 
+
 var info = document.querySelector('#info')
 
 var details = data.map(function(data) {
@@ -61,3 +62,5 @@ var details = data.map(function(data) {
 });
 
 info.innerHTML = details.join(' ');
+
+

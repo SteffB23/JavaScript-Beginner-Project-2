@@ -28,7 +28,7 @@ CSS
 JavaScript
 ## Contribution Guidlines 
 Direct link to site:
-LINK TO THE SITE HERE
-LINK TO THE GITHUB HERE
+https://steffb23.github.io/JavaScript-Beginner-Project-2/index
+https://github.com/SteffB23/JavaScript-Beginner-Project-2
 Copyright(c) 2021 by Stephan Brookens
 This software is licensed under MIT license.
